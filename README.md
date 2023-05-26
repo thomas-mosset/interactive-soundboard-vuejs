@@ -1,24 +1,12 @@
-# interactive-animal-soundboard
+# Interactive animal soundboard
 
-## Project setup
-```
-yarn install
-```
+## **Résumé**
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Une application permettant de jouer des sons d'animaux.
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## **Utilisation de**
 
-### Lints and fixes files
-```
-yarn lint
-```
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Les sons sont libres de droit et proviennent du site [free sounds library](https://www.freesoundslibrary.com/).
